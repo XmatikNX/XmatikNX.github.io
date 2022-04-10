@@ -12,5 +12,5 @@ Si quieres unirte envia un correo a solicitud.xmatik@protonmail.com
 
 ### Nuestros proyectos actuales
 
-Actualmente estamos trabajando en recrear el custom firmware para Nintendo Switch SXOS(xmatiknx.github.io/SXOS)
+Actualmente estamos trabajando en recrear el custom firmware para Nintendo Switch SXOS(https://xmatiknx.github.io/SXOS.md)
 
