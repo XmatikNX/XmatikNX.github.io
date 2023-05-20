@@ -1,16 +1,11 @@
 ### Team Xmatik
 
-Bienvenido a la pagina oficial del team xmatik
+\- Descontinuado -
 
-### Quienes Somos?
+### ¿Por que fué descontinuado?
 
-El Team Xmatik es un equipo de desarolladores para crear software de hacking de consolas, actualmente estamos intentando recrear SXOS
+El Team Xmatik se creó como un proyecto para el tiempo libre de [GenplatDev](https://github.com/GenplatDev) (Yo). Simplemente tengo otros proyectos mejores y ya.
 
-### Quieres Unirte?
+### SXOS
 
-Si quieres unirte envia un correo a solicitud.xmatik@protonmail.com
-
-### Nuestros proyectos actuales
-
-Actualmente estamos trabajando en recrear el custom firmware para Nintendo Switch SXOS(https://xmatiknx.github.io/SXOS.md)
-
+Si estás aquí es por SXOS, ¿Cierto? Bien, si buscas el SXOS updated solo [pulsa aquí](https://github.com/GenplatDev/SXOS)
